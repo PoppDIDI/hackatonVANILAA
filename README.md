@@ -15,13 +15,13 @@ Ce projet a été développé dans le cadre du Hackathon de Machine Learning. Il
 ---
 
 ##  Équipe & Rôles
-* POPP Dietmar Ndremarolahy : Responsable donneés et annotation
-* DIMBINIERANA Tolojanahary Nisandratampifaliana : Pretraiment NLP
+* POPP Dietmar Ndremarolahy : Pretraiment NLP
+* DIMBINIERANA Tolojanahary Nisandratampifaliana : Responsable donneés et annotation
 * RANJASON Sitrakaniana Brundy Joel : Modelisation machine Learning
-* ANDRIANASOLO Hasina Tovonambinintsoa : Application Web et deploiement
-* RAKOTOMANALINARIVO Andy Nantenaina : Gestion du projet et github
-* RAFALIMANANA Minosoa Mampionona : Documentantion et rapport
-* RAKOTOFARA Nianantsalama : Teste et demonstration
+* ANDRIANASOLO Hasina Tovonambinintsoa : Gestion du projet et github
+* RAKOTOMANALINARIVO Andy Nantenaina : Application Web et deploiement
+* RAFALIMANANA Minosoa Mampionona : Teste et demonstration
+* RAKOTOFARA Nianantsalama : Documentantion et rapport
 
 ---
 
